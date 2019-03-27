@@ -1,7 +1,7 @@
 import React from 'react';
 import { shallow } from 'enzyme';
 import App from './App';
-import { isMainThread } from 'worker_threads';
+// import { isMainThread } from 'worker_threads';
 
 const app = shallow(<App />);
 
