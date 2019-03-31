@@ -25,3 +25,7 @@ Project to help learn testing in React Apps
         - npm i
     - If npm run test still doesn't work follow instructions in terminal
         - You should get a message saying the test suite must contain at least one test.
+
+##Test Coverage
+- npm run test -- --coverage
+    - Generates a table to tell how well tests covered the code
